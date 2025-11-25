@@ -35,6 +35,7 @@ Each pattern includes:
 
 | Day | Topic / Pattern | 🎥 Video Link | 🗒️ Notes | ✅ Done |
 |-----|------------------|---------------|-----------|--------| 
+| 1 | Day 1/90 - ⚡ Two Pointers Theory - DSA Pattern #1 - DSA Pattern You Must Know! | [Watch Now](https://www.youtube.com/watch?v=Elnhh8cC2vM&list=PLVItHqpXY_DDFNeS6NUUoRsloyaPRdl1l&index=2) | [Notes](https://github.com/team-codebug/babua-dsa-patterns-course/blob/main/1_Day) | ✅ |
 
 
 ---
