@@ -39,6 +39,7 @@ Each pattern includes:
 | 2 | Day 2/90 - ⚡Master 5 Two Pointer Problems - Babua DSA Patterns - Crack Coding Interviews | [Watch Now](https://www.youtube.com/watch?v=Yi90cuHYyWQ&list=PLVItHqpXY_DDFNeS6NUUoRsloyaPRdl1l&index=5) | [Notes](https://github.com/team-codebug/babua-dsa-patterns-course/tree/main/2_Day) | ✅ |
 | 3 | Day 3/90 🔥 Master Two Pointer Pattern - 5 LeetCode Problems Explained - Babua DSA Patterns 2025 | [Watch Now](https://www.youtube.com/watch?v=SP065oLnxGA&list=PLVItHqpXY_DDFNeS6NUUoRsloyaPRdl1l&index=7) | [Notes](https://github.com/team-codebug/babua-dsa-patterns-course/tree/main/3_Day) | ✅ |
 | 4 | Day 4/90 🔥Three Popular Interview Questions Two Pointer Pattern - Babua DSA Patterns 2025 | [Watch Now](https://www.youtube.com/watch?v=pcj6S1KLxWc&list=PLVItHqpXY_DDFNeS6NUUoRsloyaPRdl1l&index=8) | [Notes](https://github.com/team-codebug/babua-dsa-patterns-course/tree/main/4_Day) | ✅ |
+| 5 | Day 5/90 🔥Three Popular Interview Questions of Two Pointer Pattern - Babua DSA Patterns 2025 | [Watch Now](https://www.youtube.com/watch?v=jA74srakqvI&list=PLVItHqpXY_DDFNeS6NUUoRsloyaPRdl1l&index=9) | [Notes](https://github.com/team-codebug/babua-dsa-patterns-course/tree/main/5_Day) | ✅ |
 
 
 ---
