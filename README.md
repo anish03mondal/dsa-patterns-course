@@ -44,6 +44,20 @@ Each pattern includes:
 
 ---
 
+| Day | Problem Name | Problem Link |
+|-----|------------------|---------------|
+| 8  |  Happy Number  |  [Link](https://leetcode.com/problems/happy-number/submissions/1865369117/)
+|   |  Middle of the Linked List  |  [Link](https://leetcode.com/problems/middle-of-the-linked-list/description/)
+|   |  Linked List Cycle  |  [Link](https://leetcode.com/problems/linked-list-cycle/description/)
+|   |  Linked List Cycle  |  [Link](https://leetcode.com/problems/linked-list-cycle-ii/)
+|   |  Find Length of Loop  |  [Link](https://www.geeksforgeeks.org/problems/find-length-of-loop/1)
+
+
+
+
+---
+
+
 ## 🌟 Connect & Learn
 
 - 📺 [YouTube Channel](https://www.youtube.com/@CodingwithCTOBhaiya)  
