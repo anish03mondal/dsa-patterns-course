@@ -41,6 +41,7 @@ Each pattern includes:
 | 4 | Day 4/90 🔥Three Popular Interview Questions Two Pointer Pattern - Babua DSA Patterns 2025 | [Watch Now](https://www.youtube.com/watch?v=pcj6S1KLxWc&list=PLVItHqpXY_DDFNeS6NUUoRsloyaPRdl1l&index=8) | [Notes](https://github.com/team-codebug/babua-dsa-patterns-course/tree/main/4_Day) | ✅ |
 | 5 | Day 5/90 🔥Three Popular Interview Questions of Two Pointer Pattern - Babua DSA Patterns 2025 | [Watch Now](https://www.youtube.com/watch?v=jA74srakqvI&list=PLVItHqpXY_DDFNeS6NUUoRsloyaPRdl1l&index=9) | [Notes](https://github.com/team-codebug/babua-dsa-patterns-course/tree/main/5_Day) | ✅ |
 | 6 | Day 6/90 🔥 Solve Three Popular String Interview Questions with 1 Trick - Babua DSA Patterns 2025 | [Watch Now](https://www.youtube.com/watch?v=IW8gQ2u2O_I&list=PLVItHqpXY_DDFNeS6NUUoRsloyaPRdl1l&index=12) | [Notes](https://github.com/team-codebug/babua-dsa-patterns-course/tree/main/6_Day) | ✅ |
+| 7 | Day 7/90 - ⚡ 🚀 Fast & Slow Pointers Explained - Crack Linked List Problems in O(n) - DSA Pattern #2 | [Watch Now](https://www.youtube.com/watch?v=FguUjuCzhj0&list=PLVItHqpXY_DDFNeS6NUUoRsloyaPRdl1l&index=13) | [Notes](https://github.com/team-codebug/babua-dsa-patterns-course/tree/main/7_Day) | ✅ |
 
 
 ---
