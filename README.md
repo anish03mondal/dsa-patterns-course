@@ -54,6 +54,9 @@ Each pattern includes:
 |   |  Linked List Cycle  |  [Link](https://leetcode.com/problems/linked-list-cycle/description/)
 |   |  Linked List Cycle  |  [Link](https://leetcode.com/problems/linked-list-cycle-ii/)
 |   |  Find Length of Loop  |  [Link](https://www.geeksforgeeks.org/problems/find-length-of-loop/1)
+| 9 |  Split a Linked List into two halves  |  [Link](https://www.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1)
+|  |  Find Duplicate Number  |  [Link](https://leetcode.com/problems/find-the-duplicate-number/submissions/1875729233/)
+|  |  Palindrome Linked List  |  [Link](https://leetcode.com/problems/palindrome-linked-list/description/)
 
 
 
