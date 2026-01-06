@@ -58,6 +58,7 @@ Each pattern includes:
 | 9 |  Split a Linked List into two halves  |  [Link](https://www.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1)
 |  |  Find Duplicate Number  |  [Link](https://leetcode.com/problems/find-the-duplicate-number/submissions/1875729233/)
 |  |  Palindrome Linked List  |  [Link](https://leetcode.com/problems/palindrome-linked-list/description/)
+| 10 |  Maximum twin sum of a Linked List  |  [Link](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)
 
 
 
