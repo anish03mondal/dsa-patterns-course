@@ -44,6 +44,7 @@ Each pattern includes:
 | 7 | Day 7/90 - ⚡ 🚀 Fast & Slow Pointers Explained - Crack Linked List Problems in O(n) - DSA Pattern #2 | [Watch Now](https://www.youtube.com/watch?v=FguUjuCzhj0&list=PLVItHqpXY_DDFNeS6NUUoRsloyaPRdl1l&index=13) | [Notes](https://github.com/team-codebug/babua-dsa-patterns-course/tree/main/7_Day) | ✅ |
 | 8 | Day 8/90 - ⚡ 🚀 5 Popular Interview Questions Fast & Slow Pointers Pattern - DSA Pattern #2 | [Watch Now](https://www.youtube.com/watch?v=eIItwq8UTmU&list=PLVItHqpXY_DDFNeS6NUUoRsloyaPRdl1l&index=14) | [Notes](https://github.com/team-codebug/babua-dsa-patterns-course/tree/main/8_Day) | ✅ |
 | 9 | Day 9/90 - ⚡ 🚀 3 Popular Interview Questions Fast & Slow Pointers Pattern - DSA Pattern #2 | [Watch Now](https://www.youtube.com/watch?v=E85jp_rHivc&list=PLVItHqpXY_DDFNeS6NUUoRsloyaPRdl1l&index=16) | [Notes](https://github.com/team-codebug/babua-dsa-patterns-course/tree/main/9_Day) | ✅ |
+| 10 | Day 10/90 - ⚡2130. Maximum Twin Sum of a Linked List - Fast & Slow Pointers Pattern - DSA Pattern #2 | [Watch Now](https://www.youtube.com/watch?v=t40HN4Rla30&list=PLVItHqpXY_DDFNeS6NUUoRsloyaPRdl1l&index=17) | [Notes](https://github.com/team-codebug/babua-dsa-patterns-course/tree/main/10_Day) | ✅ |
 
 
 ---
