@@ -60,6 +60,7 @@ Each pattern includes:
 |  |  Find Duplicate Number  |  [Link](https://leetcode.com/problems/find-the-duplicate-number/submissions/1875729233/)
 |  |  Palindrome Linked List  |  [Link](https://leetcode.com/problems/palindrome-linked-list/description/)
 | 10 |  Maximum twin sum of a Linked List  |  [Link](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)
+| 13 | Max Sum Subarray of size K |  [Link](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1)
 
 
 
