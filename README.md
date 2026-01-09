@@ -63,6 +63,9 @@ Each pattern includes:
 | 13 | Max Sum Subarray of size K |  [Link](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) 
 |  | Maximum sum of Distince subarray with Length K |  [Link](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)
 |  | Minimum Size Subarray Sum |  [Link](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
+| 14 | Contains Duplicate II |  [Link](https://leetcode.com/problems/contains-duplicate-ii/description/)
+|  | Maximum Average Subarray I |  [Link](https://leetcode.com/problems/maximum-average-subarray-i/description/)
+|  | Longest Substring without Repeating Characters |  [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 
 
 
