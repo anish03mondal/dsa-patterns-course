@@ -66,6 +66,7 @@ Each pattern includes:
 | 14 | Contains Duplicate II |  [Link](https://leetcode.com/problems/contains-duplicate-ii/description/)
 |  | Maximum Average Subarray I |  [Link](https://leetcode.com/problems/maximum-average-subarray-i/description/)
 |  | Longest Substring without Repeating Characters |  [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
+| 15 | Repeated DNA Sequences |  [Link](https://leetcode.com/problems/repeated-dna-sequences/description/)
 
 
 
