@@ -67,6 +67,9 @@ Each pattern includes:
 |  | Maximum Average Subarray I |  [Link](https://leetcode.com/problems/maximum-average-subarray-i/description/)
 |  | Longest Substring without Repeating Characters |  [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 | 15 | Repeated DNA Sequences |  [Link](https://leetcode.com/problems/repeated-dna-sequences/description/)
+| 16 | Fruit into Baskets |  [Link](https://leetcode.com/problems/fruit-into-baskets/description/)
+|  | Longest Substring without Repeating Characters |  [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
+|  | Length of Longest subarray with atmost k frequency |  [Link](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description/)
 
 
 
