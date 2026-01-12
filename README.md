@@ -70,6 +70,9 @@ Each pattern includes:
 | 16 | Fruit into Baskets |  [Link](https://leetcode.com/problems/fruit-into-baskets/description/)
 |  | Longest Substring without Repeating Characters |  [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 |  | Length of Longest subarray with atmost k frequency |  [Link](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description/)
+| 17 | Number of subarrays of size k and average greater than or equal to threshold |  [Link](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/)
+|  | Frequency of the most frequent element |  [Link](https://leetcode.com/problems/frequency-of-the-most-frequent-element/description/)
+
 
 
 
