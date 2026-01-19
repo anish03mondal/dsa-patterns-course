@@ -73,6 +73,11 @@ Each pattern includes:
 | 17 | Number of subarrays of size k and average greater than or equal to threshold |  [Link](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/)
 |  | Frequency of the most frequent element |  [Link](https://leetcode.com/problems/frequency-of-the-most-frequent-element/description/)
 | 18 | Longest Repeating Character Replacement |  [Link](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
+| 32 | Reverse Linked List |  [Link](https://leetcode.com/problems/reverse-linked-list/description/)
+|  | Remove Linked List Element |  [Link](https://leetcode.com/problems/remove-linked-list-elements/description/)
+|  | Remove Duplicate from Sorted List |  [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
+
+
 
 
 
