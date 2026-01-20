@@ -76,6 +76,8 @@ Each pattern includes:
 | 32 | Reverse Linked List |  [Link](https://leetcode.com/problems/reverse-linked-list/description/)
 |  | Remove Linked List Element |  [Link](https://leetcode.com/problems/remove-linked-list-elements/description/)
 |  | Remove Duplicate from Sorted List |  [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
+| 33 | Reverse Linked List II |  [Link](https://leetcode.com/problems/reverse-linked-list-ii/description/)
+|  | Reorder List |  [Link](https://leetcode.com/problems/reorder-list/description/)
 
 
 
