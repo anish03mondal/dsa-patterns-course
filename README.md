@@ -78,6 +78,8 @@ Each pattern includes:
 |  | Remove Duplicate from Sorted List |  [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
 | 33 | Reverse Linked List II |  [Link](https://leetcode.com/problems/reverse-linked-list-ii/description/)
 |  | Reorder List |  [Link](https://leetcode.com/problems/reorder-list/description/)
+| 34 | Odd Even Linked List |  [Link](https://leetcode.com/problems/odd-even-linked-list/description/)
+|  | Swapping Nodes in a Linked List |  [Link](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/)
 
 
 
