@@ -82,6 +82,7 @@ Each pattern includes:
 |  | Swapping Nodes in a Linked List |  [Link](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/)
 | 35 | Split Linked List in parts |  [Link](https://leetcode.com/problems/split-linked-list-in-parts/description/)
 |  | Swap Nodes in Pairs |  [Link](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
+| 36 | Reverse Nodes in K group |  [Link](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
 
 
 
