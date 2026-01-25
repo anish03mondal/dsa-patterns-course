@@ -83,6 +83,7 @@ Each pattern includes:
 | 35 | Split Linked List in parts |  [Link](https://leetcode.com/problems/split-linked-list-in-parts/description/)
 |  | Swap Nodes in Pairs |  [Link](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
 | 36 | Reverse Nodes in K group |  [Link](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
+| 37 | Insert in Sorted Circular Linked List |  [Link](https://www.geeksforgeeks.org/problems/sorted-insert-for-circular-linked-list/1)
 
 
 
