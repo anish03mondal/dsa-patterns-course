@@ -86,6 +86,9 @@ Each pattern includes:
 | 37 | Insert in Sorted Circular Linked List |  [Link](https://www.geeksforgeeks.org/problems/sorted-insert-for-circular-linked-list/1)
 | 38 | Reverse Node in even length group |  [Link](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/description/)
 |  | Delete N nodes after M nodes of Linked List |  [Link](https://www.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1)
+| 41 | Last stone Weight |  [Link](https://leetcode.com/problems/last-stone-weight/description/)
+|  | Last number after digits swaps by Parity |  [Link](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/)
+
 
 
 
